@@ -1,0 +1,44 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+
+div.data1 {
+  
+  background-color:#e7e9ea;
+  font-family: Georgia;
+  padding: 25px 25px;
+  margin: 16px;
+        }
+
+
+div.data2{
+  background-color:white;
+  font-family: Arial;
+  padding: 25px 25px;
+  margin: 16px;
+        }
+
+ul{
+  max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+li{
+  margin: 16px 0;
+}
+
+
+h1{
+  text-align: center;
+}
+
+/* convert to B&W */
+/* img{
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+} */
+
+
